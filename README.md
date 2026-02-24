@@ -1,3 +1,3 @@
 # Nobuteru
 
-Nobuteru Portfolio
+Portfolio
