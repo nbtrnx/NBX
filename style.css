@@ -93,10 +93,13 @@ body {
 }
 
 #logo {
-  width: 253px;
-  height: 136px;
+  /* width: 253px;
+  height: 136px; */
+  /* margin-bottom: -0.5rem; */
+  /* margin-top: 1rem; */
+  width: auto;
+  height: fit-content;
   margin-top: 1rem;
-  margin-bottom: -0.5rem;
 }
 
 #logo.skew {
